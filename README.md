@@ -1,7 +1,7 @@
 # c-stak
 saçma 404 
 
-#install
+# install
 npm i
-#run 
+# run 
 npm start
