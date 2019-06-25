@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Aguafina+Script|B612+Mono|Cutive+Mono|Mali|Merriweather|Noto+Sans+HK|Open+Sans|Roboto+Condensed|Rubik+Mono+One&display=swap');
+
+* {
+    overflow: hidden;
+
+}
+
+#test {
+    font-weight: bold !important;
+}
+
+p {
+    text-align: center;
+
+}
